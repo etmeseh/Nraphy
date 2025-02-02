@@ -31,7 +31,7 @@
     "mongoose": "^7.2.2",
     "node-html-parser": "^6.1.5",
     "parse-ms": "^2.1.0",
-    "passport": "^0.6.0",
+    "passport": "^0.7.0",
     "passport-discord": "^0.1.4",
     "path": "^0.12.7",
     "play-dl": "^1.9.4",
